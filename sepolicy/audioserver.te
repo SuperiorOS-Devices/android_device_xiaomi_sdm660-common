@@ -1,2 +1,0 @@
-#============= audioserver ==============
-allow audioserver labeledfs:filesystem associate;
